@@ -1,0 +1,4 @@
+#Mon May 21 13:37:13 EEST 2018
+base.0=/home/student/eim/PracticalTest02/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

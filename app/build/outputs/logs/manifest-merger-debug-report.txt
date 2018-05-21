@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bc0780c7339bf22d0d121fb8cd8b43ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5d78924ca72f87fbee22196afefcc266/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4346ecc616fb7be37c838793b55d705a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7240fac023260b659f46961253a01392/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d0d1108370178773988ac6718208795/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/217700cdef51cedad8f25966ffabf84f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a92b806c3650778189f0a38098bf5035/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/af5710f2a1f90d85036db37458e31b29/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/219609c5ac9d8d069f9d26da0cc32fa0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e80532fa906a0b1cd779bd15276be0a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/da297dd8da8db536eb7d383b41fdd62a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fc6f1e2b9c600210aa94de40b69bb9b3/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:3:5-69
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:5:5-6:54
+	android:name
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:6:9-51
+application
+ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5d78924ca72f87fbee22196afefcc266/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5d78924ca72f87fbee22196afefcc266/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:13:9-40
+activity#practicaltest02.pdsd.systems.cs.pub.ro.practicaltest02.PracticalTest02MainActivity
+ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:14:19-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bc0780c7339bf22d0d121fb8cd8b43ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bc0780c7339bf22d0d121fb8cd8b43ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5d78924ca72f87fbee22196afefcc266/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5d78924ca72f87fbee22196afefcc266/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4346ecc616fb7be37c838793b55d705a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4346ecc616fb7be37c838793b55d705a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7240fac023260b659f46961253a01392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7240fac023260b659f46961253a01392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d0d1108370178773988ac6718208795/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d0d1108370178773988ac6718208795/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/217700cdef51cedad8f25966ffabf84f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/217700cdef51cedad8f25966ffabf84f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a92b806c3650778189f0a38098bf5035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a92b806c3650778189f0a38098bf5035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/af5710f2a1f90d85036db37458e31b29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/student/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/af5710f2a1f90d85036db37458e31b29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/219609c5ac9d8d069f9d26da0cc32fa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/219609c5ac9d8d069f9d26da0cc32fa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e80532fa906a0b1cd779bd15276be0a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e80532fa906a0b1cd779bd15276be0a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/da297dd8da8db536eb7d383b41fdd62a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/da297dd8da8db536eb7d383b41fdd62a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fc6f1e2b9c600210aa94de40b69bb9b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/student/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fc6f1e2b9c600210aa94de40b69bb9b3/AndroidManifest.xml:20:5-44
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+		ADDED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
+		INJECTED from /home/student/eim/PracticalTest02/app/src/main/AndroidManifest.xml
